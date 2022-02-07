@@ -9,3 +9,4 @@ Leetcode DSA problems and solutions
 |3| [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)      | [Solution](https://github.com/amp-patel/Leetcode-Questions/blob/main/1480_RunningSumOf1dArray.java) | 
 |4| [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)      | [Solution](https://github.com/amp-patel/Leetcode-Questions/blob/main/1672_RichestCustomerWealth.java) | 
 |5| [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)      | [Solution](https://github.com/amp-patel/Leetcode-Questions/blob/main/2011_FinalValueOfVariableAfterPerformingOperations.java) | 
+|6| [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/)      | [Solution](https://github.com/amp-patel/Leetcode-Questions/blob/main/2114_MaximumNumberOfWordsFoundInSentences.java) | 
