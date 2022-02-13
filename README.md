@@ -12,3 +12,4 @@ Leetcode DSA problems and solutions
 |6| [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/)      | [Solution](https://github.com/amp-patel/Leetcode-Questions/blob/main/2114_MaximumNumberOfWordsFoundInSentences.java) | 
 |7| [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)      | [Solution](https://github.com/amp-patel/Leetcode-Questions/blob/main/1108_DefangingAnIPAddress.java) | 
 |8| [Jewels and Stones](https://leetcode.com/problems/defanging-an-ip-address/)      | [Solution](https://github.com/amp-patel/Leetcode-Questions/blob/main/771_JewelsAndStones.java) | 
+|9| [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)      | [Solution](https://github.com/amp-patel/Leetcode-Questions/blob/main/1678_GoalParserInterpretation.java) | 
