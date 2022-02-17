@@ -6,8 +6,6 @@ class Solution {
             {
                 for(int j = arr.length-1; j>i;j--)
                 {
-//                    System.out.println(arr[j]);
-
                     arr[j]=arr[j-1];
 //                    System.out.println(arr[j]);
 
