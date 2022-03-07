@@ -17,3 +17,4 @@ Leetcode DSA problems and solutions
 |11| [Design HashMap](https://leetcode.com/problems/design-hashmap/)      | [Solution](https://github.com/amp-patel/Leetcode-Questions/blob/main/706_DesignHashMap) | 
 |12| [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)      | [Solution](https://github.com/amp-patel/Leetcode-Questions/blob/main/744_FindSmallestLetterGreaterThanTarget.java) | 
 |13| [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)      | [Solution](https://github.com/amp-patel/Leetcode-Questions/blob/main/1512_NumberofGoodPairs.java) | 
+|14| [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)      | [Solution](https://github.com/amp-patel/Leetcode-Questions/blob/main/1929_ConcatenationofArray.java) | 
